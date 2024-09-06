@@ -164,3 +164,10 @@ To deploy your project to Vercel:
 - **Firebase Realtime Database:** [https://console.firebase.google.com/u/0/project/chat-bot-app-54837/database/chat-bot-app-54837-default-rtdb/data/~2F](https://console.firebase.google.com/u/0/project/chat-bot-app-54837/database/chat-bot-app-54837-default-rtdb/data/~2F)
 - **Firebase Project Overview:** [https://console.firebase.google.com/u/0/project/chat-bot-app-54837/overview](https://console.firebase.google.com/u/0/project/chat-bot-app-54837/overview)
 - **Vercel Deployment Output:** [https://chatbot-app-weld.vercel.app](https://chatbot-app-weld.vercel.app)
+## Firebase Realtime Database Screenshots
+
+Here are some screenshots demonstrating how the chatbot stores messages in Firebase Realtime Database.
+
+- [View the Firebase Database Screenshots](https://drive.google.com/drive/folders/1vGmAneDP0dJT-McpL1XAs5OFgb1wT96p?usp=sharing)
+
+These screenshots show how user messages and bot responses are saved and displayed in real-time in Firebase.
