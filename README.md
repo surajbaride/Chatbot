@@ -130,6 +130,20 @@ yarn start
 
 This will start the development server and open your project in a web browser.
 
+## Environment Variables
+
+To run this project, you need to set up a `.env` file in the root directory. This file should contain your Firebase configuration details:
+
+```plaintext
+apiKey: "AIzaSyDduYcJx7QFTbs1SXCaoHzS2_n4-38cn3g",
+  authDomain: "chat-bot-app-54837.firebaseapp.com",
+  projectId: "chat-bot-app-54837",
+  storageBucket: "chat-bot-app-54837.appspot.com",
+  messagingSenderId: "338685874227",
+  appId: "1:338685874227:web:cd7d2eb7b53d1ed2111346",
+  measurementId: "G-CGB0YYFRQ5",
+  databaseURL: 'https://chat-bot-app-54837-default-rtdb.firebaseio.com'
+
 ## Deployment
 
 To deploy your project to Vercel:
